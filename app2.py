@@ -472,8 +472,8 @@ with tabs[1]:
 # TAB 3: DIGITAL DIVIDE MODEL
 # ────────────────────────────────────────────────────────────────────────────
 with tabs[2]:
-    st.markdown('<p class="section-header">Digital Divide Model — Bourdieu's Digital Capital</p>', unsafe_allow_html=True)
-    st.markdown('<p class="section-sub">Examines how prior digital exposure (internet, smartphone, AI awareness) influences post-workshop learning gains.</p>', unsafe_allow_html=True)
+    st.markdown("<p class="section-header">Digital Divide Model — Bourdieu's Digital Capital</p>", unsafe_allow_html=True)
+    st.markdown("<p class="section-sub">Examines how prior digital exposure (internet, smartphone, AI awareness) influences post-workshop learning gains.</p>", unsafe_allow_html=True)
 
     col_a, col_b = st.columns(2)
 
@@ -539,8 +539,8 @@ with tabs[2]:
 # TAB 4: COGNITIVE READINESS MODEL
 # ────────────────────────────────────────────────────────────────────────────
 with tabs[3]:
-    st.markdown('<p class="section-header">Cognitive Readiness Model — ELM & Bandura's Self-Efficacy</p>', unsafe_allow_html=True)
-    st.markdown('<p class="section-sub">Analyses how self-efficacy proxies and prior GenAI awareness moderate learning outcomes, per ELM and Transfer of Learning theory.</p>', unsafe_allow_html=True)
+    st.markdown("<p class="section-header">Cognitive Readiness Model — ELM & Bandura's Self-Efficacy</p>", unsafe_allow_html=True)
+    st.markdown("<p class="section-sub">Analyses how self-efficacy proxies and prior GenAI awareness moderate learning outcomes, per ELM and Transfer of Learning theory.</p>", unsafe_allow_html=True)
 
     col_a, col_b = st.columns(2)
 
